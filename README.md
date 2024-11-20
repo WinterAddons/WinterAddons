@@ -4,7 +4,7 @@
 1.
 ![image](https://github.com/user-attachments/assets/14760cc5-433b-4b4d-9910-e3c9ecdd990d)
 
-2. Click on the file and extract it
+2. Click trough the files until you get to the "winteraddons.zip" folder (NOT WINTERADDONS-MAIN) and extract it
 3. Windows + R
 4. Enter %appdata%
 5. Click on .minecraft
