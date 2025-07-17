@@ -12,8 +12,10 @@
 
 
 ## Updates
-Laste update: 11/20/2024 2:13AM GMT+2 <br>
-+Fixed Zeroping Etherwarp chat toggle not displaying properly
+Laste update: 7/17/2025 9:37PM GMT+2 <br>
++feat: Added Tiny dancer helper for rift
++feat: Added Drillfix for mining
++fix: Minor improvements on most dungeon related stuff
 <!--
 **WinterAddons/WinterAddons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
