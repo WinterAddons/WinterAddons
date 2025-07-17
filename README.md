@@ -1,7 +1,7 @@
 ## Hi there 
 
 # HOW TO DOWNLOAD
-## [DOWNLOAD HERE](https://github.com/WinterAddons/WinterAddons/raw/refs/heads/main/winteraddons.zip) 
+## [DOWNLOAD HERE](https://github.com/WinterAddons/WinterAddons/raw/refs/heads/main/winteraddons.zip)
 1. Download by clicking "DOWNLOAD HERE", alternatively you can download the file from the top of this page by clicking on it.
 2. Right click on the "winteraddons.zip" folder (NOT WINTERADDONS-MAIN) and extract it (this should open a new window with a "winteraddons" folder)
 3. Run "/ct files" ingame
