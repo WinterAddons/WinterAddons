@@ -5,15 +5,11 @@
 ![image](https://github.com/user-attachments/assets/14760cc5-433b-4b4d-9910-e3c9ecdd990d)
 
 2. Click trough the files until you get to the "winteraddons.zip" folder (NOT WINTERADDONS-MAIN) and extract it
-3. Windows + R
-4. Enter %appdata%
-5. Click on .minecraft
-6. Click on config (if youre using skyclient, click on skyclient first and then config)
-7. Click on ChatTriggers (you may have to install it first https://www.chattriggers.com/)
-8. Click on modules
+3. Run "/ct files" ingame
+8. Open the modules folder
 9. Put WinterAddons in here
 10. Run /ct load in-game
-11. Enjoy!
+11. Done
 
 
 ## Updates
