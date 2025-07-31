@@ -12,7 +12,8 @@
 
 
 ## Updates
-Laste update: 18/2025 11:51PM GMT+2 <br>
+Laste update: 7/31/2025 2:40AM GMT+2 <br>
++fix: Updated zero ping etherwarp to work after watchdog changes <br>
 +feat: Added Tiny dancer helper for rift <br>
 +feat: Added Drillfix for mining <br>
 +fix: Minor improvements on most dungeon related stuff <br>
